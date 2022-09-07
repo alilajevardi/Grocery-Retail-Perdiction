@@ -1,7 +1,7 @@
 # Grocery-Retail-Perdiction
 
 # Introduction
-The aim is to build a model that accurately forecasts product sales. The model ensures there are just enough products in store at the right time.
+The aim of project is to build a model that accurately forecasts product sales. The model ensures there are just enough products in store at the right time.
 
 ## Data specifications:
 ### Item dataset:
