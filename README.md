@@ -19,7 +19,7 @@ The aim is to build a model that accurately forecasts product sales. The model e
 5. No of store type: 5
 
 
-# Data Transformation:
+## Data Transformation:
 
 state → remove (to reduce dimensionality)
 
