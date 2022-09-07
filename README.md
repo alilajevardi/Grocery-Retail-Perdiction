@@ -18,3 +18,19 @@ Store dataset:
 4. No of unique state + city : 22
 5. No of store type: 5
 
+
+Data Transformation:
+
+state → remove (to reduce dimensionality)
+year → remove 
+class → MinMax scale (normalise) 
+store_nbr → MinMax scale (normalise)
+weekday → MinMax scale (normalise)
+cluster → MinMax scale (normalise)
+dcoilwtico → standard scaler
+item_nbr → standard scaler
+onpromotion → leave the same
+holiday → leave the same
+month → sin, cos
+day → sin, cos
+others → one-hot encoding
