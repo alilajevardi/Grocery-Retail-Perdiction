@@ -11,11 +11,12 @@ Item dataset:
 3.  No of families: 33
 4.  No of unique class+family : 337
 
+
 Store dataset:
 
-No of stores: 54
-No of city: 22
-No of state: 16
-No of unique state + city : 22
-No of store type: 5
+1. No of stores: 54
+2. No of city: 22
+3. No of state: 16
+4. No of unique state + city : 22
+5. No of store type: 5
 
