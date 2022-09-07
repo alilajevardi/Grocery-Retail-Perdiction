@@ -33,13 +33,16 @@ weekday → MinMax scale (normalise)
 
 cluster → MinMax scale (normalise)
 
+
 dcoilwtico → standard scaler
 
 item_nbr → standard scaler
 
+
 onpromotion → leave the same
 
 holiday → leave the same
+
 
 month → sin, cos
 
