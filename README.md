@@ -5,10 +5,11 @@ The aim is to build a model that accurately forecasts product sales. The model e
 
 # Data specifications:
 Item dataset:
-  No of items (item_nbr): 4100
-  No classes: 337
-  No of families: 33
-  No of unique class+family : 337
+
+1.  No of items (item_nbr): 4100
+2.  No classes: 337
+3.  No of families: 33
+4.  No of unique class+family : 337
 
 Store dataset:
 
